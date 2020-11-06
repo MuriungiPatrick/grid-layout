@@ -1,0 +1,18 @@
+{
+  "name": "grid-layout",
+  "version": "1.0.0",
+  "description": "Understanding CSS Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Grid",
+    "CSS",
+    "Grid",
+    "Grid",
+    "Layout"
+  ],
+  "author": "Patrick Muriungi",
+  "license": "ISC"
+}
