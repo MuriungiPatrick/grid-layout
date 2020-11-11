@@ -4,7 +4,7 @@
   "description": "Understanding CSS Grid",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "node-sass sass/grid.scss css/style.css -w"
   },
   "keywords": [
     "Grid",
@@ -14,5 +14,8 @@
     "Layout"
   ],
   "author": "Patrick Muriungi",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
 }

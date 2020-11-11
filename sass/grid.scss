@@ -1,2 +1,29 @@
-@import "main";
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0; 
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 22px;
+  font-size: 24px;
+  color: #fff;
+  text-align: center;
+  font-weight: 400;
+ 
+}
+
 @import "variables";
+
+.grid-container {
+    background: #fff;
+}
+
+.grid-item {
+
+
+} 
+
